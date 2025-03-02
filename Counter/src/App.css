@@ -5,6 +5,17 @@
   text-align: center;
 }
 
-.card {
-  padding: 2em;
+button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 15px;
+  cursor: pointer;
+  border-radius: 50px;
+  margin-top: 20px;
+}
+
+button:hover {
+  background-color: #0056b3;
 }
